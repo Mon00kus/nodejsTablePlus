@@ -1,0 +1,19 @@
+{
+  "name": "0.0.1",
+  "version": "0.0.1",
+  "description": "\"Simple multiply function\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "baseX": "node ./app.js --base=7"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.7.0"
+  }
+}
